@@ -14,7 +14,7 @@ Proje, aşağıdaki temel bileşenlerden oluşur:
 - `requirements.txt` → Gerekli kütüphanelerin listesi
 - `README.md` → Proje dökümantasyonu
 
-## ⚙️ Kurulum ve Kullanımgit remote add origin https://github.com/muhammetburakbektas/ai-image-classifier.git
+## ⚙️ Kurulum ve Kullanımgit remote add origin https://github.com/muhammetburakbektas/animal_models.ai.git
 git branch -M main
 git push -u origin main
 
