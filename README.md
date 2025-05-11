@@ -1,5 +1,12 @@
 # 🧠 Yapay Zeka Destekli Görüntü Sınıflandırıcı
 
+# 📦 Kütüphane Kurulumu Hakkında Bilgilendirme
+Projeyi çalıştırmadan önce, ortamınıza gerekli Python kütüphanelerinin yüklenmiş olması gerekmektedir. Bu kütüphaneler, requirements.txt dosyasında listelenmiştir. Aşağıdaki komutu terminalde çalıştırarak tüm bağımlılıkları kolayca yükleyebilirsiniz:
+
+pip install -r requirements.txt
+
+Bu adımı tamamladıktan sonra proje sorunsuz şekilde başlatılabilir.
+
 ## 📌 Proje Açıklaması
 Bu proje, kullanıcıların yüklediği bir görselin içeriğini tanımlayarak hangi hayvan sınıfına ait olduğunu tahmin eden bir yapay zeka uygulamasıdır. TensorFlow kullanılarak eğitilen görüntü sınıflandırma modeli, Gradio arayüzü ile kullanıcıya sade ve etkileşimli bir şekilde sunulmaktadır.
 
